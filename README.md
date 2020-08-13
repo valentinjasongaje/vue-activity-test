@@ -1,4 +1,5 @@
-# vue-activity
+# [Starter] Udemy Project Vue Activity (Project 2)
+## This is what you need when starting Section 3! (:
 
 ## Project setup
 ```
@@ -13,6 +14,11 @@ npm run serve
 ### Compiles and minifies for production
 ```
 npm run build
+```
+
+### Run your tests
+```
+npm run test
 ```
 
 ### Lints and fixes files
